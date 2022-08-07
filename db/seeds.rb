@@ -6,6 +6,7 @@
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
 
+Book.create(title: 'TO`RABEK TOG`O')
 Book.create(title: 'Testing first rails api hahah no book yet')
 Book.create(title: 'Hamlet')
 Book.create(title: 'Pride and Prejiduce')
